@@ -1,0 +1,7 @@
+{
+  "name": "multi-expert-debate",
+  "version": "0.1.0",
+  "description": "Structured multi-expert debate: triage the question, convene 3-12 experts with opposing perspectives, run adversarial debate rounds, and synthesize an actionable conclusion.",
+  "author": { "name": "2395115107-stack" },
+  "skills": "./skills"
+}

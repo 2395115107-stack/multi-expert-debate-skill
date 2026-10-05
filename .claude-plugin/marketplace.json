@@ -1,0 +1,17 @@
+{
+  "name": "multi-expert-debate-market",
+  "plugins": [
+    {
+      "name": "multi-expert-debate",
+      "source": "./multi-expert-debate",
+      "version": "0.1.0",
+      "description": "Structured multi-expert debate: triage the question, convene 3-12 experts with opposing perspectives, run adversarial debate rounds, and synthesize an actionable conclusion.",
+      "displayName": "Multi-Expert Debate",
+      "displayName_i18n": { "zh-CN": "多专家辩论" },
+      "description_i18n": {
+        "zh-CN": "多专家辩论技能：先 Triage 判断问题复杂度，再召集 3-12 位立场互补甚至对立的虚拟专家，做结构化分析、正面对抗辩论，最后收敛为可执行的综合结论。"
+      },
+      "category": "productivity"
+    }
+  ]
+}
